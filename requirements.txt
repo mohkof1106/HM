@@ -1,5 +1,0 @@
-Django==1.8
-modbus_tk
-paramiko
-dateutil
-pytz
